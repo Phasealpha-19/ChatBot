@@ -3,7 +3,5 @@ joblib
 pandas
 numpy
 Scikit-learn
-re
 nltk==3.6.2
 ssl
-punkt_tab
