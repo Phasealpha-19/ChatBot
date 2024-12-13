@@ -6,3 +6,4 @@ Scikit-learn
 re
 nltk
 ssl
+punkt_tab
