@@ -1,0 +1,48 @@
+Hi there! How can I assist you today?
+
+good morning=Good morning! Hope you’re having a fantastic day.
+
+Good evening=Good evening! How can I help you tonight?
+
+What’s your name=I’m ChatBot, your friendly virtual assistant.
+
+
+
+Are you human=Nope, I’m a chatbot powered by AI. But I’m here to help just like a human would!
+
+I need help=Sure! Let me know what you need assistance with.
+
+Can you guide me=Absolutely! What would you like to know more about?
+
+What can you do=I can assist with your queries, provide information, and help you stay informed. Let’s get started!
+
+What’s the time=The current time is [dynamic: insert time here].
+
+What’s the weather like=I’d need your location to provide accurate weather updates. Could you tell me where you are?
+
+Can you tell me a fun fact=Sure! Did you know that octopuses have three hearts?
+
+Tell me a joke=Why did the scarecrow win an award? Because he was outstanding in his field!
+
+What’s your favorite color=I like the color of knowledge—let’s call it binary blue!
+
+Do you have friends=My friends are other bots like me! We hang out in the server room.
+
+Bye=Goodbye! Have a great day ahead.
+
+See you later=Take care! See you soon.
+
+Thanks for your help=You’re welcome! Don’t hesitate to reach out again.
+
+[Incomprehensible text or unrelated input]=I’m sorry, I didn’t quite understand that. Can you rephrase?
+
+You’re not helpful=I’m sorry if I couldn’t assist you well. Let’s try again—what can I help you with?
+
+You’re wrong=Thanks for pointing that out. Let’s correct it together.
+
+hello=Hi there! How can I assist you?
+how are you=I’m just a bot, but I’m doing great! How can I help?
+tell me a joke=Why don’t scientists trust atoms? Because they make up everything!
+goodbye=Goodbye! Have a wonderful day!
+
+
