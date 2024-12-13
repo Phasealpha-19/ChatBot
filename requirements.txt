@@ -4,4 +4,3 @@ pandas
 numpy
 Scikit-learn
 nltk==3.6.2
-ssl
