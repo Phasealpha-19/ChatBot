@@ -4,6 +4,6 @@ pandas
 numpy
 Scikit-learn
 re
-nltk
+nltk==3.6.2
 ssl
 punkt_tab
